@@ -120,11 +120,6 @@ function App() {
           </p>
         </header>
 
-        {/* 広告枠（上部） */}
-        <div className="bg-white rounded-lg shadow-sm p-4 mb-6 text-center text-gray-400">
-          <p>広告枠 (728x90)</p>
-        </div>
-
         {/* メインコンテンツ */}
         <main className="bg-white rounded-xl shadow-lg p-6 mb-6">
           {/* 入力エリア */}
@@ -301,11 +296,6 @@ function App() {
             </div>
           )}
         </main>
-
-        {/* 広告枠（下部） */}
-        <div className="bg-white rounded-lg shadow-sm p-4 mb-6 text-center text-gray-400">
-          <p>広告枠 (728x90)</p>
-        </div>
 
         {/* 人気ハッシュタグ一覧 */}
         <section className="bg-white rounded-xl shadow-lg p-6 mb-6">
